@@ -32,3 +32,9 @@
     font-size: 6.4vw;
   }
 } */
+
+.App {
+  min-height: 100vh;
+  background-color: #39445a;
+  color: white;
+}
